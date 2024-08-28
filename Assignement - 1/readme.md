@@ -28,4 +28,6 @@ policy(Canteen) = Class
 ## Question 2
 gamma = 0.99
 ### Value Iteration
+![alt text](https://github.com/karthiknambiar29/marl-iiserb/blob/main/Assignement%20-%201/value_iteration_plot.jpeg)
 ### Policy Iteration
+![alt text](https://github.com/karthiknambiar29/marl-iiserb/blob/main/Assignement%20-%201/policy_iteration_plot.jpeg)
