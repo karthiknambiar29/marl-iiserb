@@ -23,7 +23,7 @@ policy(Academic Building) = Class\
 policy(Canteen) = Class
 
 ### MDP
-
+![alt text](https://github.com/karthiknambiar29/marl-iiserb/blob/main/Assignement%20-%201/mdp.jpeg)
 
 ## Question 2
 gamma = 0.99
